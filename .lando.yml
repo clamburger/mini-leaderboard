@@ -1,0 +1,5 @@
+name: mini-leaderboard
+recipe: lemp
+config:
+  php: 8.3
+  webroot: public
